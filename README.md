@@ -15,22 +15,27 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global electronic signature market is estimated between **$11 billion and $17 billion** (expanding at an aggressive ~23–37% CAGR toward $40B+ by 2030). The market is **moderately fragmented** with a distinct two-tier structure: general enterprise workflows are consolidated around high-cap incumbents (Adobe, DocuSign), while niche compliance (eIDAS QTSPs), API-first developer tools, and regional legal workflows remain widely fragmented across independent providers.
+
 ## SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[DocuSign](https://www.docusign.com/)** | Industry-standard e-signature platform with envelopes, templates, and certificate of completion. **Per-user seat pricing with envelope caps** on lower tiers. Free developer sandbox available for API testing, but production requires a paid plan. | Personal: ~$10/month (1 user); Standard: ~$25/user/month (annual) | **Free developer sandbox** (no credit card) for API testing; no permanent free tier for production. |
-| **[Adobe Acrobat Sign](https://www.adobe.com/sign.html)** | E-signature bundled into Acrobat plans. **Per-license billing** with seat subscriptions. **Free Developer Edition with full REST API access and sandbox** for testing. Deep integration if your workflows are PDF-native. | Acrobat Standard with Sign: **$14.99/user/month**; Pro: $19.99/user/month | **Free Developer Edition + sandbox** for API development; production requires paid Acrobat plan. |
-| **[Dropbox Sign](https://sign.dropbox.com/)** | E-signature platform (formerly HelloSign) with **unlimited signature requests on paid plans**—no envelope caps. **Free tier: 3 signature requests per month**. Official SDKs for Python, Node, Java, C#, PHP, Ruby, Go. | Essentials: **$15/user/month** (annual, unlimited sends); Standard: $25/user/month (teams) | **Free**: 3 signature requests/month; **Developer test mode** available for API testing. |
-| **[PandaDoc](https://www.pandadoc.com/)** | Document workflow platform combining e-signature, proposals, and CPQ. Free eSign plan: **5 documents/month, 2 recipients/document**. | Free: **$0** (5 docs/month); Starter: $19/seat/month (annual) | **Free**: 5 documents/month, 5 templates, limited API access. **14-day trial**. |
-| **[SignNow](https://www.signnow.com/)** | E-signature platform with templates, role-based fields, and embedded signing. API supports template usage, invitation sending, and signed document download. | Entry: **~$8/user/month** (1 user) | Free trial available; no permanent free tier. |
-| **[OneSpan Sign](https://www.onespan.com/)** | Enterprise e-signature focused on **complex authentication and audit requirements**. Certificate-based signing, policy controls, and audit-oriented message handling. SaaS and on-premises deployment options available. | Quote-only (enterprise contract) | Free developer sandbox; trial via sales. |
-| **[BoldSign](https://boldsign.com/)** | E-signature platform for **automated initiation via API**. Field auto-configuration and API-based audit record download for automated archival. Good for businesses wanting to trigger signing from business systems. | Quote-only (per-user or usage-based) | Free plan available; paid tiers for production. |
+| Product | Scale (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier / Trial Limits | Description |
+|---------|-----------------------------|-------------------------|--------------------------|-------------|
+| **[Adobe Acrobat Sign](https://www.adobe.com/sign.html)** | **~$25.97B Rev / ~$95B Market Cap** (Adobe Inc.) | **$12.99/user/month** (Standard, annual) / **$19.99/user/month** (Pro, annual) | **7-day free trial** (Standard/Pro with full PDF and e-sign tools); **30-day trial** (Acrobat Sign Enterprise, capped at 200 transactions); Free Developer Sandbox with full REST API. | Enterprise document & e-signature solution bundled into Acrobat ecosystem. Per-license seat pricing with deep native PDF integrations. |
+| **[DocuSign](https://www.docusign.com/)** | **~$3.36B Rev / ~$15B Market Cap** (NASDAQ: DOCU) | **$10/month** (Personal plan, billed annually) | **30-day free trial** (up to 5 recipients per envelope, up to 4 users; no credit card required); Free Developer Sandbox with full REST API. | Global benchmark for enterprise e-signatures and Intelligent Agreement Management with envelopes, templates, and certificate of completion. |
+| **[Dropbox Sign](https://sign.dropbox.com/)** | **~$2.53B Rev / ~$7.5B Market Cap** (Dropbox Inc.) | **$15/user/month** (Essentials plan, billed annually) | **Free forever plan**: 3 signature requests per month; **30-day free trial** for paid plans; Developer test mode with sandbox. | E-signature platform (formerly HelloSign) offering unlimited signature requests on paid tiers and extensive language SDKs. |
+| **[SignNow](https://www.signnow.com/)** | **~$1B+ Valuation** (airSlate parent unicorn) | **$8/user/month** (Business plan, billed annually) | **7-day free trial** (full access to Business Premium features); Developer trial available with **250 signature invites**; no permanent free sending tier. | Value-focused e-signature platform by airSlate with templates, role-based fields, and embedded signing workflows. |
+| **[PandaDoc](https://www.pandadoc.com/)** | **~$100M+ ARR / ~$1B Valuation** | **$19/user/month** (Starter plan, billed annually) | **Free forever plan**: 5 document completions per month, 2 recipients per document, 5 templates; **14-day free trial** for paid plans. | Document automation and e-signature platform combining proposals, quotes (CPQ), and contract management. |
+| **[OneSpan Sign](https://www.onespan.com/)** | **~$250M Rev / ~$850M Market Cap** (NASDAQ: OSPN) | **$22/user/month** (Professional plan, billed annually) | **30-day free trial** (full feature access, no credit card required; up to 1,000 transactions/user/year upon upgrade); Free Developer Sandbox. | Enterprise digital agreements focused on high-assurance security, cryptographic certificates, and rigorous banking audit trails. |
+| **[BoldSign](https://boldsign.com/)** | **~$40M–$60M Rev** (Syncfusion parent company) | **$5/user/month** (Growth plan, billed annually) | **Free forever plan (Essential)**: 25 envelopes/month (business email) or 5 envelopes/month (personal email), 2 templates, 1 user; **30-day free trial** for paid plans (up to 50 envelopes, 10 users). | API-first and web e-signature platform by Syncfusion featuring automated initiation, robust webhook architecture, and dynamic field placement. |
 
 ## Open-Source GitHub Projects
 
