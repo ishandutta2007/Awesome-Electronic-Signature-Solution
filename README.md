@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Electronic-Signature-Solution/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Electronic-Signature-Solution?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Electronic-Signature-Solution/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Electronic-Signature-Solution?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Electronic-Signature-Solution/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Electronic-Signature-Solution?style=flat-square&color=blue" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Electronic-Signature-Solution/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Electronic-Signature-Solution?style=flat-square&color=red" alt="GitHub Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Electronic-Signature-Solution/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" /></a>
@@ -62,9 +62,9 @@ The global electronic signature market is estimated between **$11 billion and $1
 
 ## 🚀 Open-Source GitHub Projects & Self-Hosted Solutions
 
-The table below lists top open-source electronic signature repositories, sorted by GitHub star count in descending order.
+The table below lists top open-source electronic signature repositories, sorted by GitHub Stars_Count in descending order.
 
-| 🛠️ Project | ⭐ Star Count | 📜 License & Stack | 💡 Highlights & Capabilities |
+| 🛠️ Project | ⭐ Stars_Count | 📜 License & Stack | 💡 Highlights & Capabilities |
 |:---|:---|:---|:---|
 | **[DocuSeal](https://github.com/docusealco/docuseal)** | [![Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers) | **AGPL-3.0**<br>Ruby on Rails + PostgreSQL/SQLite | **The leading open-source DocuSign alternative with the most complete free edition.** WYSIWYG PDF form editor with **12 field types**, multiple signatories, and **tamper-evident audit certificate**. Features **AI-powered field detection** (v2.3.0+), unlimited envelopes on Community Edition, and lightweight single-container Docker setup. |
 | **[Documenso](https://github.com/documenso/documenso)** | [![Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers) | **MIT**<br>TypeScript, Next.js, Prisma, PostgreSQL | **Modern, developer-centric e-signature platform with permissive licensing.** Core signing, templates, and full REST/tRPC API access. Supports **.p12 digital certificate signing** with verifiable cryptographic integrity in any PDF reader. Perfect for embedding into commercial SaaS applications. |
@@ -95,7 +95,7 @@ Contributions are welcome and appreciated! To add a new platform or update exist
 
 1. 🍴 Fork the repository.
 2. ✍️ Update `README.md` keeping entries factual, objective, and well-sourced.
-3. 🏷️ Include: product/project name, official URL, star badge (for open source), and clear pricing/licensing details.
+3. 🏷️ Include: product/project name, official URL, Stars_Badge (for open source), and clear pricing/licensing details.
 4. 🚀 Submit a Pull Request with a brief explanation.
 
 ---
